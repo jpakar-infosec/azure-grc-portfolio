@@ -95,7 +95,7 @@ Role-Based Access Control (RBAC) was reviewed and documented at the subscription
 
 This documents the principle of least privilege review — identifying who has access, at what scope, and whether conditions or guardrails are applied.
 
-> 📸 *See screenshot: ![IAM Role Assignments](screenshots/iam-role-assignments.png)
+> 📸 *See screenshot: ![IAM Role Assignments](screenshots/iam-roll-assignments.png)
 
 ---
 
