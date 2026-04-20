@@ -95,7 +95,7 @@ Role-Based Access Control (RBAC) was reviewed and documented at the subscription
 
 This documents the principle of least privilege review — identifying who has access, at what scope, and whether conditions or guardrails are applied.
 
-> 📸 *See screenshot: `iam-role-assignments.png`*
+> 📸 *See screenshot: ![IAM Role Assignments](screenshots/iam-role-assignments.png)
 
 ---
 
@@ -120,7 +120,7 @@ A Storage Account (StorageV2 — General Purpose v2) was configured with the fol
 - Secure transfer is **required** — enforcing HTTPS/TLS in transit
 - Minimum TLS 1.2 — rejecting outdated, vulnerable protocol versions
 
-> 📸 *See screenshot: `storage-security-settings.png`*
+> 📸 *See screenshot: ![Storage Security Settings](storage-security-settings.png)
 
 ---
 
@@ -136,7 +136,7 @@ Encryption at rest is configured using Azure's default Storage Service Encryptio
 
 Data is automatically encrypted when written to Azure datacenters and decrypted on access. Microsoft-managed keys are used, providing platform-level encryption without additional key management overhead.
 
-> 📸 *See screenshot: `storage-encryption.png`*
+> 📸 *See screenshot: ![Storage Encryption](storage-encryption.png)
 
 ---
 
