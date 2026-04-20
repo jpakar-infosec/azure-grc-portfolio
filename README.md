@@ -1,11 +1,11 @@
 # Azure GRC Portfolio 
-### Governance, Rish & Compliance Lab Series | Microsoft Azure
+### Governance, Risk & Compliance Lab Series | Microsoft Azure
 
 ----
 
 ## About My Portfolio
 
-I'm a cybersecurity student transitioning into Governance, Rish, and Compliance (GRC). This handcrafted portfolio documents labs I have built in Mircosoft Azure to demostrate practical skills in compliance framworks, identity managment, security posture, and threat detection.
+I'm a cybersecurity student transitioning into Governance, Risk, and Compliance (GRC). This handcrafted portfolio documents labs I have built in Microsoft Azure to demonstrate practical skills in compliance frameworks, identity management, security posture, and threat detection.
 
 My backgroud is in food service and various retail environments - industries where communication, accountability, and process adherence are everything. I'm bringing these soft skills into cybersecurity, with a focus on GRC roles where people, policy and technology traverse. 
 
@@ -14,14 +14,14 @@ My backgroud is in food service and various retail environments - industries whe
 
 ---
 
-##Certifications In Progress
+## Certifications In Progress
 
 | Certification | Status |
 |---|---|
 | CompTIA Network+  | In Progress |
 | CompTIA Security+ | In Progress |
 | Microsoft AZ-900 (Azure Fundamentals) | In Progress |
-| MIcrosoft AZ-500 (Azure Security Engineer) | Planned |
+| Microsoft AZ-500 (Azure Security Engineer) | Planned |
 
 
 # 🛡️ Azure GRC Portfolio Project
