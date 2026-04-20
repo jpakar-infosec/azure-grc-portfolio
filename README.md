@@ -81,7 +81,7 @@ A Log Analytics workspace was created to serve as the centralized logging hub fo
 - Querying logs using Kusto Query Language (KQL)
 - Integration with Azure Monitor for alerting on anomalous activity
 
-> 📸 *See screenshot: ![Log Analytics](screenshots/log-analytics-overview.png)
+> ![Log Analytics](screenshots/log-analytics-overview.png)
 
 ---
 
@@ -95,7 +95,7 @@ Role-Based Access Control (RBAC) was reviewed and documented at the subscription
 
 This documents the principle of least privilege review — identifying who has access, at what scope, and whether conditions or guardrails are applied.
 
-> 📸 *See screenshot: ![IAM Role Assignments](screenshots/iam-roll-assignments.png)
+![IAM Role Assignments](screenshots/iam-roll-assignments.png)
 
 ---
 
