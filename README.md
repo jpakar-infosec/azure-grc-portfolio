@@ -182,7 +182,7 @@ grc-portfolio/
 ![Log Analytics Workspace](screenshots/log-analytics-overview.png)
 
 ### IAM Role Assignments
-![IAM Role Assignments](screenshots/iam-role-assignments.png)
+![IAM Role Assignments](screenshots/iam-roll-assignments.png)
 
 ### Storage Account Security Settings
 ![Storage Security Settings](screenshots/storage-security-settings.png)
