@@ -81,7 +81,7 @@ A Log Analytics workspace was created to serve as the centralized logging hub fo
 - Querying logs using Kusto Query Language (KQL)
 - Integration with Azure Monitor for alerting on anomalous activity
 
-> 📸 *See screenshot: `log-analytics-overview.png`*
+> 📸 *See screenshot: ![Log Analytics](screenshots/log-analytics-overview.png)
 
 ---
 
